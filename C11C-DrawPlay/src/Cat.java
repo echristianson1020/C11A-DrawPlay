@@ -45,5 +45,7 @@ public class Cat {
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
 		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
+		
+		//hey shawtys its ava i am here and i am not queer  but i support 
 	}
 }
