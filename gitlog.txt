@@ -1,1 +1,44 @@
-Hi
+changed oval
+
+@avakowalski
+avakowalski committed now
+added gitlog.txt 
+
+@echristianson1020
+echristianson1020 committed 6 minutes ago
+Changed mouth color of cat
+
+@echristianson1020
+echristianson1020 committed 6 minutes ago
+Don't commit class files
+
+@avakowalski
+avakowalski committed 7 minutes ago
+secret message so fun
+
+@avakowalski
+avakowalski committed 15 minutes ago
+Update gitlog.txt
+
+@echristianson1020
+echristianson1020 committed 23 minutes ago
+Created gitlog.txt
+
+@echristianson1020
+echristianson1020 committed 24 minutes ago
+Change eye color Eva 
+
+@echristianson1020
+echristianson1020 committed 28 minutes ago
+Screaming and crying <3
+
+@echristianson1020
+echristianson1020 committed 30 minutes ago
+Add files via upload
+
+@echristianson1020
+echristianson1020 committed 53 minutes ago
+Initial commit
+
+@echristianson1020
+echristianson1020 committed 1 hour ago
